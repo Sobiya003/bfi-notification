@@ -1,0 +1,9 @@
+{
+  "screenings": {
+    "Sunday 19 July 2026 20:20": "Available",
+    "Monday 20 July 2026 08:30": "Sold out",
+    "Saturday 22 August 2026 19:00": "Available"
+  },
+  "consecutive_empty": 0,
+  "last_checked": "2026-07-19T19:32:43"
+}
