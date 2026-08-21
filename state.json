@@ -4,8 +4,9 @@
     "Friday 21 August 2026 15:15": "Sold out",
     "Friday 21 August 2026 19:15": "Sold out",
     "Saturday 22 August 2026 10:00": "Sold out",
-    "Saturday 22 August 2026 16:15": "Sold out"
+    "Saturday 22 August 2026 16:15": "Sold out",
+    "Saturday 22 August 2026 20:15": "Sold out"
   },
-  "consecutive_empty": 3,
-  "last_checked": "2026-08-21T10:05:28"
+  "consecutive_empty": 0,
+  "last_checked": "2026-08-21T12:32:28"
 }
