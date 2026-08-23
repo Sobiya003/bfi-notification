@@ -3,9 +3,9 @@
     "Sunday 23 August 2026 12:20": "Sold out",
     "Sunday 23 August 2026 16:20": "Sold out",
     "Sunday 23 August 2026 20:20": "Sold out",
-    "Monday 24 August 2026 10:00": "Sold out",
-    "Monday 24 August 2026 14:00": "Sold out"
+    "Monday 24 August 2026 10:00": "Available",
+    "Monday 24 August 2026 14:00": "Available"
   },
   "consecutive_empty": 0,
-  "last_checked": "2026-08-23T06:59:31"
+  "last_checked": "2026-08-23T07:36:13"
 }
