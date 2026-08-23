@@ -1,8 +1,5 @@
 {
   "screenings": {
-    "Saturday 22 August 2026 10:00": "Sold out",
-    "Saturday 22 August 2026 16:15": "Sold out",
-    "Saturday 22 August 2026 20:15": "Sold out",
     "Sunday 23 August 2026 12:20": "Sold out",
     "Sunday 23 August 2026 16:20": "Sold out",
     "Sunday 23 August 2026 20:20": "Sold out",
@@ -10,5 +7,5 @@
     "Monday 24 August 2026 14:00": "Sold out"
   },
   "consecutive_empty": 0,
-  "last_checked": "2026-08-22T23:56:23"
+  "last_checked": "2026-08-23T01:01:56"
 }
