@@ -3,11 +3,12 @@
     "Friday 28 August 2026 10:15": "Sold out",
     "Friday 28 August 2026 14:15": "Sold out",
     "Friday 28 August 2026 20:45": "Sold out",
-    "Saturday 29 August 2026 10:15": "Available",
+    "Saturday 29 August 2026 10:15": "Sold out",
     "Saturday 29 August 2026 14:15": "Sold out",
     "Saturday 29 August 2026 20:45": "Sold out",
-    "Sunday 30 August 2026 10:00": "Sold out"
+    "Sunday 30 August 2026 10:00": "Sold out",
+    "Sunday 30 August 2026 16:30": "Sold out"
   },
   "consecutive_empty": 0,
-  "last_checked": "2026-08-28T14:06:14"
+  "last_checked": "2026-08-28T23:32:46"
 }
