@@ -4,8 +4,9 @@
     "Thursday 03 September 2026 12:45": "Sold out",
     "Friday 04 September 2026 09:00": "Sold out",
     "Friday 04 September 2026 13:00": "Sold out",
-    "Friday 04 September 2026 20:00": "Sold out"
+    "Friday 04 September 2026 20:00": "Sold out",
+    "Friday 04 September 2026 23:59": "Sold out"
   },
   "consecutive_empty": 0,
-  "last_checked": "2026-09-03T04:50:39"
+  "last_checked": "2026-09-03T09:22:07"
 }
