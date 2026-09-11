@@ -1,7 +1,5 @@
 {
   "screenings": {
-    "Thursday 10 September 2026 09:45": "Sold out",
-    "Thursday 10 September 2026 13:45": "Sold out",
     "Friday 11 September 2026 10:00": "Sold out",
     "Friday 11 September 2026 14:00": "Sold out",
     "Saturday 12 September 2026 09:00": "Sold out",
@@ -9,5 +7,5 @@
     "Saturday 12 September 2026 17:00": "Sold out"
   },
   "consecutive_empty": 0,
-  "last_checked": "2026-09-10T22:53:13"
+  "last_checked": "2026-09-11T00:44:36"
 }
