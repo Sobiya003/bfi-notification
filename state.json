@@ -16,6 +16,6 @@
     "Saturday 17 October 2026 20:00": "Available",
     "Sunday 18 October 2026 16:30": "Available"
   },
-  "consecutive_empty": 0,
+  "consecutive_empty": 1,
   "last_checked": "2026-10-02T02:13:37"
 }
