@@ -2,7 +2,7 @@
   "screenings": {
     "Monday 12 October 2026 10:30": "Available",
     "Tuesday 13 October 2026 10:15": "Available",
-    "Tuesday 13 October 2026 17:00": "Available",
+    "Tuesday 13 October 2026 17:00": "Sold out",
     "Wednesday 14 October 2026 10:30": "Available",
     "Thursday 15 October 2026 11:15": "Available",
     "Friday 16 October 2026 12:15": "Available",
@@ -11,11 +11,11 @@
     "Saturday 17 October 2026 13:40": "Sold out",
     "Saturday 17 October 2026 20:00": "Sold out",
     "Sunday 18 October 2026 16:30": "Sold out",
-    "Sunday 18 October 2026 20:30": "Available",
+    "Sunday 18 October 2026 20:30": "Sold out",
     "Monday 19 October 2026 12:15": "Available",
     "Monday 19 October 2026 16:15": "Available",
-    "Monday 19 October 2026 20:15": "Available"
+    "Monday 19 October 2026 20:15": "Sold out"
   },
-  "consecutive_empty": 2,
-  "last_checked": "2026-10-11T07:34:34"
+  "consecutive_empty": 0,
+  "last_checked": "2026-10-11T22:52:14"
 }
