@@ -16,6 +16,6 @@
     "Monday 19 October 2026 16:15": "Available",
     "Monday 19 October 2026 20:15": "Available"
   },
-  "consecutive_empty": 0,
+  "consecutive_empty": 1,
   "last_checked": "2026-10-11T07:34:34"
 }
