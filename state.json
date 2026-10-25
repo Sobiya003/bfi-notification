@@ -3,7 +3,7 @@
     "Sunday 25 October 2026 12:30": "Sold out",
     "Sunday 25 October 2026 19:45": "Sold out",
     "Monday 26 October 2026 20:15": "Sold out",
-    "Wednesday 28 October 2026 13:30": "Sold out",
+    "Wednesday 28 October 2026 13:30": "Available",
     "Wednesday 28 October 2026 20:30": "Sold out",
     "Thursday 29 October 2026 13:30": "Sold out",
     "Thursday 29 October 2026 20:30": "Sold out",
@@ -13,6 +13,6 @@
     "Wednesday 04 November 2026 16:45": "Available",
     "Thursday 05 November 2026 14:00": "Available"
   },
-  "consecutive_empty": 3,
-  "last_checked": "2026-10-25T01:40:51"
+  "consecutive_empty": 0,
+  "last_checked": "2026-10-25T19:15:28"
 }
